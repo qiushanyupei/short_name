@@ -1,4 +1,4 @@
 -d:detach
 -i：interactive
--t:tty
+-t:tty(Text Terminal)即，伪终端
 -e:env
