@@ -1,0 +1,4 @@
+-d:detach
+-i：interactive
+-t:tty
+-e:env
